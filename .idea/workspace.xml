@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f4eeb73-9dfb-41a4-a9ea-4fe87b4b4097" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZDURFISwvvSgnTcHmfvV3js7Hu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="spring.boot" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Lab7Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-lab2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="wizut.tpsi.Lab7Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f4eeb73-9dfb-41a4-a9ea-4fe87b4b4097" name="Default Changelist" comment="" />
+      <created>1584373147692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584373147692</updated>
+      <workItem from="1584373152194" duration="5941000" />
+      <workItem from="1584558040463" duration="111000" />
+      <workItem from="1584558200924" duration="1293000" />
+      <workItem from="1584606200284" duration="126000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1584389456444">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584389456444" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1584389456442">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584389456442" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1584389456441">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584389456441" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1584389456443">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584389456443" />
+    <state width="1398" height="245" key="GridCell.Tab.1.bottom" timestamp="1584389456447">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584389456447" />
+    <state width="1398" height="245" key="GridCell.Tab.1.center" timestamp="1584389456445">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1584389456445" />
+    <state width="1398" height="245" key="GridCell.Tab.1.left" timestamp="1584389456444">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1584389456444" />
+    <state width="1398" height="245" key="GridCell.Tab.1.right" timestamp="1584389456446">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1584389456446" />
+    <state x="229" y="63" key="SettingsEditor" timestamp="1584373321322">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1584373321322" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1584377318092">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1584377318092" />
+    <state x="386" y="207" width="667" height="486" key="find.popup" timestamp="1584375678460">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="386" y="207" width="667" height="486" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1584375678460" />
+  </component>
+</project>
